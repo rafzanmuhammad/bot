@@ -1,25 +1,25 @@
 global.owner = [
-    ['6281252848955'],
-    ['6285815700861'],
-    ['6281252848955', 'owner', true]
+    ['601128084863'],
+    ['601128084863'],
+    ['601128084863', 'owner', true]
   ]
 global.mods = ['0']
-global.prems = ['6285815700861', '6281252848955']
+global.prems = ['601139805671', '601139805671']
 
 global.APIs = {
   alya: 'https://api.alyachan.biz.id'
 }
 global.APIKeys = {
-  'https://api.alyachan.biz.id': 'Your Key' // Silahkan register dulu
+  'https://api.alyachan.biz.id': 'KJzAxD' // Silahkan register dulu
 }
 
 global.set = {
-  link: 'https://chat.whatsapp.com/IaXnDzbbhNfBfTv0nN7bJI', // Link 
+  link: 'https://chat.whatsapp.com', // Link 
   thumbnail: 'https://telegra.ph/file/749c6b7544efeff028487.jpg', // Ukuran max thumbnail 150kb
   wm: `© moon-bot v${require('./package.json').version}`, // Watermark
-  footer: 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ᴍᴏᴏɴ', // Footer 
+  footer: 'ꜱɪᴍᴘʟᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ', // Footer 
   packname: 'Sticker By', //packname sticker
-  author: 'moon-bot' //author sticker
+  author: '.' //author sticker
 }
 
 global.multiplier = 100 // Semakin besar, semakin sulit naik level
